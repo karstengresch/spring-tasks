@@ -13,3 +13,4 @@ oc expose svc tasks --port 8080
 helm dependency update  
 helm install tasks kubernetes
 ```
+F

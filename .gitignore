@@ -1,5 +1,8 @@
 HELP.md
 target/
+.bashrc
+.theia/
+kubernetes/*.lock
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
